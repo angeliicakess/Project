@@ -1,0 +1,51 @@
+﻿  MainMenu.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Homee.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in Gotoxy.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl addinfo(void)" (?addinfo@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl border(void)" (?border@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl exit(void)" (?exit@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in Gotoxy.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl help(void)" (?help@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl home(void)" (?home@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl logo2(void)" (?logo2@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl logo(void)" (?logo@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl membership(void)" (?membership@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl receipt(void)" (?receipt@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void __cdecl time(void)" (?time@@YAXXZ) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "char charac" (?charac@@3DA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "int choice" (?choice@@3HA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "int weight" (?weight@@3HA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "int height" (?height@@3HA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "int age" (?age@@3HA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "void * hConsole" (?hConsole@@3PEAXEA) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > user" (?user@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > password" (?password@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > password2" (?password2@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > gender" (?gender@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Intro.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > municipality" (?municipality@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl addinfo(void)" (?addinfo@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl border(void)" (?border@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl exit(void)" (?exit@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z) already defined in Gotoxy.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl help(void)" (?help@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl home(void)" (?home@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl logo2(void)" (?logo2@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl membership(void)" (?membership@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl receipt(void)" (?receipt@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void __cdecl time(void)" (?time@@YAXXZ) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "char charac" (?charac@@3DA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "int choice" (?choice@@3HA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "int weight" (?weight@@3HA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "int height" (?height@@3HA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "int age" (?age@@3HA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "void * hConsole" (?hConsole@@3PEAXEA) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > user" (?user@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > password" (?password@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > password2" (?password2@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > gender" (?gender@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+MainMenu.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > municipality" (?municipality@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Homee.obj; second definition ignored
+Time.obj : warning LNK4006: "void __cdecl time(void)" (?time@@YAXXZ) already defined in Homee.obj; second definition ignored
+C:\ProgProject\x64\Debug\ProgProject.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  ProgProject.vcxproj -> C:\ProgProject\x64\Debug\ProgProject.exe
